@@ -1,3 +1,9 @@
+/*
+
+Written by Susmit Rudra
+
+**/
+
 # include <stdio.h>
 # include <conio.h>
 # include <math.h>
