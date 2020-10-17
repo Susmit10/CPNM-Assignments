@@ -1,0 +1,1 @@
+printf("%5d %15.6f \n", *count, x1, x2);
